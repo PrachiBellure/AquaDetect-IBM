@@ -13,3 +13,7 @@ AquaDetect is an automated anomaly-detection script built in Python using Scikit
   
 ## Execution Output
 ![AquaDetect Output](op_SS.png)
+
+## How the AI Detection Works (-1 Flag)
+* **1 (Normal Flow):** Represents standard residential water usage patterns.
+* **-1 (Anomaly / Leak):** Flagged by the Isolation Forest algorithm when continuous or abnormal water flow deviates from normal household habits.
