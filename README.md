@@ -10,3 +10,6 @@ AquaDetect is an automated anomaly-detection script built in Python using Scikit
 * Python
 * Pandas & NumPy
 * Scikit-Learn
+  
+## Execution Output
+![AquaDetect Output](op_SS.png)
